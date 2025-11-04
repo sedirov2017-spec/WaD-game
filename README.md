@@ -1,12 +1,10 @@
-## Run the Dragon Battle game
+## Запуск игры:
 
-Windows (double-click):
-- Double-click `game\run_game.bat` (cmd) or `game\run_game.ps1` (PowerShell).
+Windows:
+- Двойное нажатие на `game\run_game.bat` (cmd) или `game\run_game.ps1` (PowerShell).
 
-Terminal:
+Терминал:
 - `python -m game`
 
-Requirements:
+Системные требования:
 - Python 3.8+
-
-
